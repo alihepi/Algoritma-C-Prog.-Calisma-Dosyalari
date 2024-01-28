@@ -3,7 +3,7 @@
 
 _**Yazılım ve Siber Güvenlik Topluluğunun** öğrencilerin algoritma becerilerini geliştirmek ve yazılıma başlangıçlarında yardımcı olmak adına düzenlediği Algoritma Geliştirme & C Programlama derslerinin çalışma dosyalarıdır._
 
-
+<br/><br/>
 
 4 Haftalık çalışmalarımız boyunca yaptıklarımız şu şekildedir:
 #### 1. Temel C Programı Yapısı
