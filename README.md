@@ -1,7 +1,7 @@
 # Algoritma & C Programlama
 ### Çalışma Dosyaları
 
-_**Yazılım ve Siber Güvenlik Topluluğunun** öğrencilerin algoritma becerilerini geliştirmek ve yazılıma başlangıçlarında yardımcı olmak adına düzenlediği Algoritma Geliştirme & C Programlama derslerinin çalışma dosyalarıdır._
+_**Yazılım ve Siber Güvenlik Topluluğunun**, ilki 2023-24 ikincisi 2024-25 Akademik Yılları olmak üzere öğrencilerin algoritma becerilerini geliştirmek ve yazılıma başlangıçlarında yardımcı olmak adına düzenlediği ve her iki süreçte de aktif rol adlığım Algoritma Geliştirme & C Programlama derslerinin çalışma dosyalarıdır._
 
 <br/><br/>
 
